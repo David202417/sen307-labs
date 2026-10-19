@@ -1,3 +1,3 @@
-# sen307-labs
+# SEN307 Database Systems
 # Atera David
-#VUG/SEN/24/12088
+# VUG/SEN/24/12088
